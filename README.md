@@ -12,7 +12,7 @@
 6.运行 Sokoban.exe 看看效果
 
 ### 地图创建器
-1.运行 Sokoban.exe
+1.运行 Sokoban.exe （通过👆面的步骤生成）
 
 2.输入 2 回车
 
